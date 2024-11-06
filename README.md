@@ -24,7 +24,7 @@ Este proyecto implementa una aplicación de gestión de estudiantes utilizando W
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/estudiantes.git
+   git clone https://github.com/bradparedes/estudiantes.git
 
 2. Abre el proyecto en Visual Studio 2022.
 
@@ -33,10 +33,16 @@ Este proyecto implementa una aplicación de gestión de estudiantes utilizando W
   ```bash
     dotnet restore
   ```
+## Uso
+1. Compila y ejecuta el proyecto desde Visual Studio 2022.
 
+2. Sigue las instrucciones del curso para completar los ejercicios y proyectos.
 ## Estructura del Proyecto
 Estudiante.cs: Define la clase Estudiante que representa un estudiante en la aplicación.
 
 FormularioPrincipal.cs: Implementa la lógica de la interfaz de usuario para gestionar estudiantes.
 
 Program.cs: Contiene el punto de entrada de la aplicación y la inicialización del formulario principal.
+
+## Autor
+Bradley Presley Castañeda Paredes [GitHub] (https://github.com/bradparedes) [Linkedin] (https://linkedin.com/in/bradley-castañeda-1577b5236)
